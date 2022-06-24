@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=K2D');
+
+.App {
+  text-align: center;
+}
+
+.background-image {
+  background-image: url("https://caterease.com/wp-content/uploads/2019/01/Final-Background-For-Login.png");
+  background-size: cover;
+  height: 100vh;
+}
+
+.Title {
+  font-family: 'K2D';
+  font-size: 100px;
+  font-weight: 100;
+  text-align: center;
+}
+.App-link {
+  color: #61dafb;
+}
+
+
