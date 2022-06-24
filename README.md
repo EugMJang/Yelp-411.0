@@ -18,4 +18,5 @@ Please ask the developers to run the SQL server on GCP.
 
 ## Authors
 Lisa Liu, Tina Kong, Eugene Jang, Jisahn Kim
+
 Thanks to CS411: Database Design for sponsoring this project.
